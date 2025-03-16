@@ -21,5 +21,8 @@ Welcome to my personal portfolio website! This project is a modern, responsive, 
 
 All you need is a modern web browser. No special software or server is required.
 
+## Demo
+
+You can view a live demo of my portfolio [here](https://sumo90.github.io/Portfolio2/).
 
 
